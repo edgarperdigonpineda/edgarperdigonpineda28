@@ -1,0 +1,35 @@
+body{
+background-image: url("imagenes/fondo_multimedia.jpg");
+	background-attachment: fixed;
+	background-size:cover;
+}
+#Title{
+	text-align: center;
+	margin-top: 2em;
+	margin-left: 2em;
+	margin-right: 2em;
+	color:black ;
+	font-size: 30px;
+	background-color: white;
+	opacity: 0.90;
+	padding: 10px;
+	font-family: "Impact";
+	letter-spacing: 2px;
+}
+#Videos{
+    text-align: center;
+	margin-left: 20em;
+	margin-right: 20em;
+	margin-top: 15em;
+	border: 2px ridge grey;
+	padding: 30px;
+	background-color: white;
+	opacity: 0.9;
+	border-radius: 5%;
+	font-family: "Century Gothic";
+}
+
+
+
+
+	
